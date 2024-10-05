@@ -1,12 +1,14 @@
 # Forecasting Rainfall
 
-This project focuses on forecasting rainfall in Australia using a dataset sourced from Kaggle. The project involves data preprocessing, exploratory data analysis, model training, and evaluation to predict whether it will rain tomorrow based on various weather features.
+This project focuses on forecasting rainfall in Australia using a dataset sourced from Kaggle. The project involves data preprocessing, exploratory data analysis, model training, and evaluation to predict whether it will rain tomorrow based on various weather related features.
 
 ## Dataset
 
 The dataset used for this project can be found on Kaggle: [Weather Dataset](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package/data).
 
 ### Dataset Description
+
+Following are the column names:
 
 - **Location**: The city's name in Australia.
 - **MinTemp**: The minimum temperature recorded for the day in degrees Celsius.
